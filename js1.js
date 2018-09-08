@@ -9,3 +9,5 @@ if(f !== b && h !== d) {
     const c = h / 2
     console.log(c);
 }
+const baa= "sdsdsdsdsdsd";
+console.log(baa + " fkjvjslfkjlfklfk");
